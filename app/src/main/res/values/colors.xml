@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="inputHint">#7B7B7B</color>
+    <color name="inputText">#E5E5E5</color>
+    <color name="inputHintLine">#707070</color>
+    <color name="inputTextLine">#E5E5E5</color>
+
+
+    <color name="loginLight">#9EBCEA</color>
+    <color name="loginHeight">#5D9DFF</color>
+
+    <color name="ringColor">#FF0000</color>
+    <color name="ringBackground">#D8D8D8</color>
+
+
+    <color name="nameTextColor">#000000</color>
+    <color name="infoTextColor">#FFFFFF</color>
+
+
+</resources>
